@@ -14,7 +14,7 @@ This year's papers were selected by [Camille Rumberger](https://sites.google.com
 
 #### Forming a discussion group
 
-We encourage you to discuss the papers with a smaller group of participants prior to joining the larger RCN reading group community on Slack. You can either form a local discussion group at your home instutition or join an online group. Your group may choose to meet either once every week or every two weeks at any time of the week. If you need helping forming or connecting to a reading group, please contact [Nicolas Lou](nicolas931010@berkeley.edu). 
+We encourage you to discuss the papers with a smaller group of participants prior to joining the larger RCN reading group community on Slack. You can either form a local discussion group at your home instutition or join an online group. Your group may choose to meet either once every week or every two weeks at any time of the week. If you need helping forming or connecting to a reading group, we will provide a "looking for group" Slack thread to connect individuals who do not have an existing group at their institution. Please contact [Brendan Reid](nerdbrained@gmail.com) or [Nicolas Lou](nicolas931010@berkeley.edu) if you have any additional questions.
 
 > (or does someone else want to coordinate this?)
 
