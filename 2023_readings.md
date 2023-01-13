@@ -16,6 +16,8 @@ This year's papers were selected by [Camille Rumberger](https://sites.google.com
 
 We encourage you to discuss the papers with a smaller group of participants prior to joining the larger RCN reading group community on Slack. You can either form a local discussion group at your home instutition or join an online group. Your group may choose to meet either once every week or every two weeks at any time of the week. If you need helping forming or connecting to a reading group, we will provide a "looking for group" Slack thread to connect individuals who do not have an existing group at their institution. Please contact [Brendan Reid](nerdbrained@gmail.com) or [Nicolas Lou](nicolas931010@berkeley.edu) if you have any additional questions.
 
+Once you have formed a group, have a representative create a short introductory thread for your group (including a name for the group and potentially also names of group members, physical location(s), and career stages).
+
 > (or does someone else want to coordinate this?)
 
 #### Reading schedule
@@ -32,11 +34,20 @@ For each topic, your group should choose one person to post a summary to the Sla
 
 All participants can use the thread feature in Slack to post additional questions, and react to comments or questions posed by other groups. We will also have a weekly thread dedicated to resolving questions that emerge from the readings. Moderators will monitor threads and respond to questions. We encourage individuals or groups to use these threads to clarify any uncertainties. 
 
-Each week will have two threads: 
-  * Under the thread `Week X. <Topic Name> Post your group's discussions here,` click on the chat icon `Reply to thread` to post a summary of your group's discussions.
+Each week will have several Slack threads for discussion: 
+  * For each group signed for the readings, we will create a thread entitled 'Week <X>. Topic Name>. Group <Y>: Post your group's discussions here.' Click on the chat icon `Reply to thread` to post a summary of your group's discussions. You are also encouraged to read other group's discussion summaries and reply if you have have any input or alternate perspectives raised in your group.
   * To ask a question about the papers, use the thread `Week X. Questions for Understanding.` If you have any technical questions about the papers, post them here and the moderators will do their best to answer them!
 
+As a "reward" for fully participating in the readings, we have some snazzy stickers emblazoned with the RCN logo that will be sent out to all groups that submit summaries for every set of readings!
+
 Please contact [Nicolas Lou](nicolas931010@berkeley.edu) if you encounter problems with Slack or accessing any of the readings.
+
+#### Live discussion / RCN Happy Hour
+
+In addition to interactions over Slack and within your discussion group, we are planning on conducting a series of RCN "happy hours" over Zoom with opportunities for larger discussions and interaction with paper authors and practitioners involved in implementing the strategies discussed in the readings. An introductory happy hour is tentatively planned for 5:30 PM EST on Feb 9, 2023. We realize that finding a single time that works for all will be difficult, and any presentations or panel discussiobs will also be recorded and made available to watch asynchronously.
+
+Watch this space for more details as the happy hour plans develop!
+
 
 <br>
 
